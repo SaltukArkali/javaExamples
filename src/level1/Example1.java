@@ -32,12 +32,9 @@ public class Example1 {
 		String name = scan.nextLine();
 		System.out.println(name);
 		
-		
 		System.out.println("Do you live in 'Germany?");
 		boolean blGr=scan.nextBoolean();
-		System.out.println(blGr);
-		
-		
+		System.out.println(blGr);		
 		
 		scan.close();
 		
